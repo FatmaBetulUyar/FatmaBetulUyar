@@ -37,5 +37,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmabetuluyar&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmabetuluyar&show_icons=true&theme=radical&locale=en&layout=compact" alt="fatmabetuluyar" /></p>
 
