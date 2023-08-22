@@ -6,10 +6,6 @@
 
 - 📫 How to reach me **fbluyar2@gmail.com**
 
-<h3 align="left">✉️ Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fatmabetuluyar/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="fatmabetuluyar" height="20" width="20" /></a>
-</p>
 
 <h3 align="left">📌 Technologies:</h3>
 <p align="left"> 
