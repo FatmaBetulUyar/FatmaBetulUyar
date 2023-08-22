@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React.js, Java Spring Boot etc.**
 
-- 📝 My personal page [fatmabetuluyar.com](http://www.fatmabetuluyar.com/)
-
 - 📫 How to reach me **fbluyar2@gmail.com**
 
 <h3 align="left">✉️ Connect with me:</h3>
